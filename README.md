@@ -1,8 +1,20 @@
-# React + Vite
+# React Carousel
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project provides a minimal setup for integrating a React-based carousel using Vite with Hot Module Replacement (HMR) and ESLint rules.
 
-Currently, two official plugins are available:
+# Installation
+# Create a Vite project:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+npm create vite@latest
+Install Swiper:
+
+
+npm install swiper
+Copy the App.css and App.jsx files into your project.
+
+Run the project:
+
+npm run dev
+
+Let me know if you want further refinements! 🚀
